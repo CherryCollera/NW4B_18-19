@@ -1,0 +1,15 @@
+c:\users\runnel\documents\visual studio 2017\Projects\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.exe.config
+c:\users\runnel\documents\visual studio 2017\Projects\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.exe
+c:\users\runnel\documents\visual studio 2017\Projects\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.pdb
+c:\users\runnel\documents\visual studio 2017\Projects\Private_Constructor\Private_Constructor\obj\Debug\Private_Constructor.exe
+c:\users\runnel\documents\visual studio 2017\Projects\Private_Constructor\Private_Constructor\obj\Debug\Private_Constructor.pdb
+F:\Lab4-Flores_Runnel (1)\Constructor\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.exe.config
+F:\Lab4-Flores_Runnel (1)\Constructor\Private_Constructor\Private_Constructor\obj\Debug\Private_Constructor.exe
+F:\Lab4-Flores_Runnel (1)\Constructor\Private_Constructor\Private_Constructor\obj\Debug\Private_Constructor.pdb
+F:\Lab4-Flores_Runnel (1)\Constructor\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.exe
+F:\Lab4-Flores_Runnel (1)\Constructor\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.pdb
+G:\Lab4-Canlas_Kendeelyn\Constructor\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.exe.config
+G:\Lab4-Canlas_Kendeelyn\Constructor\Private_Constructor\Private_Constructor\obj\Debug\Private_Constructor.exe
+G:\Lab4-Canlas_Kendeelyn\Constructor\Private_Constructor\Private_Constructor\obj\Debug\Private_Constructor.pdb
+G:\Lab4-Canlas_Kendeelyn\Constructor\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.exe
+G:\Lab4-Canlas_Kendeelyn\Constructor\Private_Constructor\Private_Constructor\bin\Debug\Private_Constructor.pdb
