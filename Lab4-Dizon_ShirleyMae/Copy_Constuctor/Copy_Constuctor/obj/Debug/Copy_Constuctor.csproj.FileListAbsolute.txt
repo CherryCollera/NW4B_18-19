@@ -1,0 +1,17 @@
+C:\Users\Runnel\Documents\Visual Studio 2017\Projects\Copy_Constuctor\Copy_Constuctor\bin\Debug\Copy_Constuctor.exe.config
+C:\Users\Runnel\Documents\Visual Studio 2017\Projects\Copy_Constuctor\Copy_Constuctor\bin\Debug\Copy_Constuctor.exe
+C:\Users\Runnel\Documents\Visual Studio 2017\Projects\Copy_Constuctor\Copy_Constuctor\bin\Debug\Copy_Constuctor.pdb
+C:\Users\Runnel\Documents\Visual Studio 2017\Projects\Copy_Constuctor\Copy_Constuctor\obj\Debug\Copy_Constuctor.exe
+C:\Users\Runnel\Documents\Visual Studio 2017\Projects\Copy_Constuctor\Copy_Constuctor\obj\Debug\Copy_Constuctor.pdb
+F:\Lab4-Flores_Runnel (1)\Constructor\Copy_Constuctor\Copy_Constuctor\bin\Debug\Copy_Constuctor.exe.config
+F:\Lab4-Flores_Runnel (1)\Constructor\Copy_Constuctor\Copy_Constuctor\obj\Debug\Copy_Constuctor.exe
+F:\Lab4-Flores_Runnel (1)\Constructor\Copy_Constuctor\Copy_Constuctor\obj\Debug\Copy_Constuctor.pdb
+F:\Lab4-Flores_Runnel (1)\Constructor\Copy_Constuctor\Copy_Constuctor\bin\Debug\Copy_Constuctor.exe
+F:\Lab4-Flores_Runnel (1)\Constructor\Copy_Constuctor\Copy_Constuctor\bin\Debug\Copy_Constuctor.pdb
+F:\Lab4-Flores_Runnel (1)\Constructor\Copy_Constuctor\Copy_Constuctor\obj\Debug\Copy_Constuctor.csprojResolveAssemblyReference.cache
+G:\Lab4-Canlas_Kendeelyn\Constructor\Copy_Constuctor\Copy_Constuctor\bin\Debug\Copy_Constuctor.exe.config
+G:\Lab4-Canlas_Kendeelyn\Constructor\Copy_Constuctor\Copy_Constuctor\obj\Debug\Copy_Constuctor.exe
+G:\Lab4-Canlas_Kendeelyn\Constructor\Copy_Constuctor\Copy_Constuctor\obj\Debug\Copy_Constuctor.pdb
+G:\Lab4-Canlas_Kendeelyn\Constructor\Copy_Constuctor\Copy_Constuctor\bin\Debug\Copy_Constuctor.exe
+G:\Lab4-Canlas_Kendeelyn\Constructor\Copy_Constuctor\Copy_Constuctor\bin\Debug\Copy_Constuctor.pdb
+G:\Lab4-Canlas_Kendeelyn\Constructor\Copy_Constuctor\Copy_Constuctor\obj\Debug\Copy_Constuctor.csprojResolveAssemblyReference.cache
